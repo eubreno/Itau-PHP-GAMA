@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<head><title>Teste</title>
+<head><title>BRENO</title>
 <meta charset='UTF-8'>
 <style type='text/css'>
 body{background:#000000;color:#ffffff;font-family:courier;margin:0px;width:98%;padding:1%;}
@@ -13,13 +13,13 @@ marquee{width:98%;padding:1%;color:#ffffff;background:#000000;font-size:100%;}
 </style>
 </head>
 <body>
-<h1>Teste</h1>
-<img src="https://www.novidades100.com.br/gadget/web/images/003.jpg" alt="Teste" title="Teste">
-<h2>Teste</h2>
+<h1>BRENO</h1>
+<img src="https://www.novidades100.com.br/gadget/web/images/003.jpg" alt="IMAGEM" title="IMAGEM">
+<h2>BRENO</h2>
 <a href="https://https://breno-first-php.herokuapp.com/" alt="Home" title="Home">HOME</a>
 <br>
 <a href="https://api.whatsapp.com/send?phone=5511971339190&text=Ol%C3%A1%2C%20pode%20me%20chamar%20que%20irei%20responder" alt="WhatsApp" title="WhatsApp">WhatsApp</a>
-<p>Teste</p>
+<p>BRENO</p>
 <marquee>Breno Portas Tribes</marquee>
 </body>
 </html>
