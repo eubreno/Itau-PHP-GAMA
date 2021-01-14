@@ -16,10 +16,10 @@ marquee{width:98%;padding:1%;color:#ffffff;background:#000000;font-size:100%;}
 <h1>Teste</h1>
 <img src="https://www.novidades100.com.br/gadget/web/images/003.jpg" alt="Teste" title="Teste">
 <h2>Teste</h2>
-<a href="https://https://breno-first-php.herokuapp.com/" alt="Teste" title="Teste">https://breno-first-php.herokuapp.com/</a>
+<a href="https://https://breno-first-php.herokuapp.com/" alt="Home" title="Home">HOME</a>
 <br>
 <a href="https://api.whatsapp.com/send?phone=5511971339190&text=Ol%C3%A1%2C%20pode%20me%20chamar%20que%20irei%20responder" alt="WhatsApp" title="WhatsApp">WhatsApp</a>
 <p>Teste</p>
-<marquee>Teste</marquee>
+<marquee>Breno Portas Tribes</marquee>
 </body>
 </html>
